@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "hotels",
+      "type": "com.fabrix.hotels.config.HotelsServiceConfig",
+      "sourceType": "com.fabrix.hotels.config.HotelsServiceConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "hotels.active-locations",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.fabrix.hotels.config.HotelsServiceConfig"
+    },
+    {
+      "name": "hotels.build-version",
+      "type": "java.lang.String",
+      "sourceType": "com.fabrix.hotels.config.HotelsServiceConfig"
+    },
+    {
+      "name": "hotels.mail-details",
+      "type": "java.util.Map<java.lang.String,java.lang.String>",
+      "sourceType": "com.fabrix.hotels.config.HotelsServiceConfig"
+    },
+    {
+      "name": "hotels.msg",
+      "type": "java.lang.String",
+      "sourceType": "com.fabrix.hotels.config.HotelsServiceConfig"
+    }
+  ],
+  "hints": []
+}

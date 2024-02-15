@@ -1,0 +1,8 @@
+com\fabrix\hotels\controller\HotelsController.class
+com\fabrix\hotels\repository\HotelsRepository.class
+com\fabrix\hotels\model\Properties.class
+com\fabrix\hotels\HotelsApplication.class
+com\fabrix\hotels\config\HotelsServiceConfig.class
+com\fabrix\hotels\model\Customer.class
+com\fabrix\hotels\model\Hotels.class
+META-INF\spring-configuration-metadata.json
